@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Enwinkel
-- 👀 I’m interested in girls
-- 🌱 I’m currently learning c++ and Unreal Engine 4
-- 💞️ I’m looking to collaborate on friendship
+- 👀 I’m interested in anything
+- 🌱 I’m currently learning kotlin and c++
+- 💞️ I’m looking to collaborate on friendship, and projects
 - 📫 How to reach me stanislav.stupakk@gmail.com
