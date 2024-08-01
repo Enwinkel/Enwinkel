@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Enwinkel
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning android
-- 💞️ I’m looking to collaborate on friendship, and projects
+- 🌱 I’m an Android developer also interested in web development
 - 📫 How to reach me stanislav.stupakk@gmail.com
